@@ -1,2 +1,2 @@
 # glycyrrhiza
-a mixin ui project, for h5, hybrid, weixin, pc, tv, watch etc., can use reactjs, vuejs, angular, frameworkless, typescript
+a mixin front end ui project, for h5, hybrid app, weixin, pc, tv, watch, desktop., can use reactjs, vuejs, angular, frameworkless, typescript

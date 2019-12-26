@@ -1,0 +1,34 @@
+{
+  "name": "glycyrrhiza",
+  "version": "1.0.0",
+  "description": "a mixin front end ui project, for h5, hybrid app, weixin, pc, tv, watch, desktop., can use reactjs, vuejs, angular, frameworkless, typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [ 
+    "front end", 
+    "h5", 
+    "hybrid app", 
+    "weixin", 
+    "pc", 
+    "tv", 
+    "watch",
+    "desktop", 
+    "reactjs", 
+    "vuejs", 
+    "angular", 
+    "frameworkless", 
+    "typescript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seenyea/glycyrrhiza.git"
+  },
+  "author": "seenyea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seenyea/glycyrrhiza/issues"
+  },
+  "homepage": "https://github.com/seenyea/glycyrrhiza#readme"
+}
